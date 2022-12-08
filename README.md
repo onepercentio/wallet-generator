@@ -1,6 +1,9 @@
 # wallet-generator
 Offline wallet generator to run in your machine
 
+## Requirements
+node.js version 14 or greater
+
 ## How to use it
 1. Clone this project
 2. Install dependencies `npm i`
