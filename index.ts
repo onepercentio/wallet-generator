@@ -20,7 +20,7 @@ const schema = [
   {
     type: 'select',
     name: 'format',
-    message: 'Export file type',
+    message: 'Export type',
     choices: [
       { title: 'console', value: 'console' },
       { title: 'csv', value: 'csv' },
